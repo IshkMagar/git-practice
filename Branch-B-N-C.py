@@ -1,4 +1,4 @@
-#this is for 10 commits 
+#this is for 10 commits of branch H merge to master. 
 <<<<<<< HEAD
 print("this is branch C.")
 print("this is parent 2.")
