@@ -1,1 +1,1 @@
-suppose file contains like this
+this is test
